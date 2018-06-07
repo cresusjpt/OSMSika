@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="colorRegion1">#4b868686</color>
+    <color name="colorRegion2">#4b200204</color>
+    <color name="colorRegion3">#4b2a8915</color>
+    <color name="colorRegion4">#4bc6a41e</color>
+    <color name="colorRegion5">#4aa11010</color>
+    <color name="colorRegion6">#4b6e0e0e</color>
+    <color name="colorRegion7">#4b7fa110</color>
+    <color name="colorRegion8">#4bfd0202</color>
+    <color name="colorRegion9">#4b484646</color>
+    <color name="colorRegion10">#4b216278</color>
+    <color name="colorRegion11">#4b1021a1</color>
+    <color name="colorRegion12">#4b0a8956</color>
+    <color name="colorRegion13">#4b3410a1</color>
+    <color name="colorRegion14">#4b7110a1</color>
+    <color name="colorRegion15">#4bf9a1e0</color>
+    <color name="colorPressed">#7caeddec</color>
+    <color name="colorRegion16">#4bb6fd4a</color>
+    <color name="colorRegion17">#0fa11010</color>
+    <color name="colorRegion18">#0fa11010</color>
+    <color name="colorRegion19">#0fa11010</color>
+    <color name="colorRegion20">#0fa11010</color>
+    <color name="colorRegion21">#0fa11010</color>
+    <color name="colorRegion22">#0fa11010</color>
+    <color name="colorRegion23">#0fa11010</color>
+    <color name="colorRegion24">#0fa11010</color>
+    <color name="colorRegion25">#0fa11010</color>
+    <color name="colorTransparentButton">#ffF0F1EE</color>
+</resources>

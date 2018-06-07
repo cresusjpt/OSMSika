@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">OSMSika</string>
+    <string name="title_activity_bottom_sheet">BottomSheetActivity</string>
+    <string name="title_activity_detail">DetailActivity</string>
+    <string name="iv_description">TODO</string>
+    <string name="culture_disponible">Cultures Disponibles…</string>
+    <string name="sols_disponible">Sols Disponibles…</string>
+    <string name="description">TODO</string>
+</resources>
